@@ -28,7 +28,7 @@ class SpiderMain(object):
                  print e
                  print 'craw failed'
         self.outputer.output_html()#输出收集好的数据
-        print 'ok''
+        print 'ok'
 if __name__ == "__main__":
     root_url = "http://baike.baidu.com/view/21087.htm"
     obj_spider = SpiderMain()
