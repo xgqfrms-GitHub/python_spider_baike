@@ -1,6 +1,7 @@
 # python_spider_baike
 
-imooc上爬虫视频教程源代码
+imooc上爬虫视频教程源代码,用于爬去百度百科内容
+
 使用Eclipse+PyDev编写运行
 
 运行时请将这5个py文件整合到一个包下
